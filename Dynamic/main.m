@@ -1,5 +1,5 @@
 % !git clone --depth=1 https://github.com/CSSEGISandData/COVID-19.git
-% !git remote add myOrigin https://github.com/nkyang/COVID-19.git
+% !gir remote add myOrigin git@github.com:nkyang/COVID-19.git
 % !git fetch origin master
 % !git push myOrigin master
 
